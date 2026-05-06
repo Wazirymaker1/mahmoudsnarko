@@ -73,7 +73,7 @@ datetime
 pip install requests
 
 # 2. تشغيل الأداة
-python3 snarko_final.py
+python3 snarko.py
 
 # 3. إدخال مفتاح التفعيل (يتم شراؤه من التليجرام)
 Enter SNARKO Key: [Your Key Here]
