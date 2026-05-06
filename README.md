@@ -1,4 +1,3 @@
-```markdown
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
@@ -552,5 +551,4 @@ Enter SNARKO Key: [Your Key Here]</code></pre>
         
     </div>
 </body>
-</html>
-```
+</html> 
